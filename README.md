@@ -1,4 +1,4 @@
-
+Data Cleaning Project: 
 This project focuses on basic data cleaning techniques to ensure consistency, accuracy, and reliability of the dataset. The goal is to prepare the data for further analysis or modeling by addressing common data quality issues such as duplicates, inconsistent formatting, and missing values.
 
 Steps Involved
