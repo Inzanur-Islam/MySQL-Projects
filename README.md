@@ -1,10 +1,18 @@
-Data Cleaning Project: 
-This project focuses on basic data cleaning techniques to ensure consistency, accuracy, and reliability of the dataset. The goal is to prepare the data for further analysis or modeling by addressing common data quality issues such as duplicates, inconsistent formatting, and missing values.
+# SQL Data Cleaning and Analytics Projects
 
-Steps Involved
-1. Remove Duplicates
-2. Standardize Data
-3. Handle Null or Blank Values
-4. Remove Unnecessary Data
+This repository showcases my SQL skills through a series of projects focused on data cleaning, transformation, and analysis. Each project involves real-world scenarios where structured data is prepared for analytical and reporting purposes.
 
-This project helps in establishing a clean and reliable dataset by handling duplicates, standardizing formats, managing missing values, and removing unnecessary information. These steps lay the foundation for accurate analysis and ensure better results in subsequent data operations.
+## Projects
+### [Layoffs Data Cleaning](./Layoffs-Data-Cleaning)
+- **Purpose**: Standardize, clean, and prepare a dataset of company layoffs for analysis.
+- **Skills Demonstrated**:
+  - Duplicate removal with `ROW_NUMBER` and `PARTITION BY`
+  - Data standardization (`TRIM`, `STR_TO_DATE`)
+  - Handling null values
+- **Real-World Application**: Useful for preparing data for analytics dashboards or reporting systems.
+
+## Key Skills
+- SQL (CTEs, Window Functions, Data Transformation)
+- MySQL Database Management
+- Data Cleaning Techniques
+- Query Optimization
