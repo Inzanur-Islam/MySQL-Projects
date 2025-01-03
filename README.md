@@ -1,7 +1,7 @@
 This repository showcases my SQL skills through a series of projects focused on data cleaning, transformation, and analysis. Each project involves real-world scenarios where structured data is prepared for analytical and reporting purposes.
 
 ## Projects
-### [Layoffs Data Cleaning](./Layoffs-Data-Cleaning)
+### [Layoffs Data Cleaning](./Data-Cleaning)
 - **Purpose**: Standardize, clean, and prepare a dataset of company layoffs for analysis.
 - **Skills Demonstrated**:
   - Duplicate removal with `ROW_NUMBER` and `PARTITION BY`
