@@ -14,3 +14,9 @@ This repository showcases my SQL skills through a series of projects focused on 
 - MySQL Database Management
 - Data Cleaning Techniques
 - Query Optimization
+
+
+## 📧 **Contact**  
+- **Author**: Inzanur Islam  
+- **Email**: [inzanur99@gmail.com](mailto:inzanur99@gmail.com)  
+- **GitHub**: [github.com/Inzanur-Islam](https://github.com/Inzanur-Islam)  
